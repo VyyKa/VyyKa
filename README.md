@@ -1,4 +1,6 @@
-![👋 Hi, my name is VyyKa](https://i.giphy.com/o0vwzuFwCGAFO.webp)
+<div id="header" align="center">
+   <img src="https://i.giphy.com/o0vwzuFwCGAFO.webp" width="200" />
+</div>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
