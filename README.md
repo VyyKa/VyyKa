@@ -12,7 +12,6 @@
   </ul>
 </div>
 
-<h1 align="center">Hi 👋, I'm VyyKa</h1>
 <h3 align="center">🚀 I love CyberSec</h3>
 
 - 🔭 I’m currently working on **💻 Studying at FPTU**
