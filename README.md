@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://i.giphy.com/o0vwzuFwCGAFO.webp" width="200" alt="Coding GIF"/>
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJhYnVvOTI4Z3hkY3lvbTBlZm9uanBrMGM5eGI0YTlkY2t6OG9pcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="200" alt="Coding GIF"/>
 </div>
 
 <div id="toc" align="center">
